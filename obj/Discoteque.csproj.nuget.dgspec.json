@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj": {}
+    "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj": {
+    "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
+        "projectUniqueName": "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
         "projectName": "Discoteque",
-        "projectPath": "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
+        "projectPath": "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
         "packagesPath": "C:\\Users\\stefy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\obj\\",
+        "outputPath": "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

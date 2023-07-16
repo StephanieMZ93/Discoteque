@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1yCMyyJK7pk/mTuSUHUOJGKZBsac/HD8dEOO26vLeg5fyDtWEYqEKJwdyoHLPC0HV9aVqr2arTTInsTvi1IQg==",
+  "dgSpecHash": "5DHyu8mLwhhOqApYEu/t5OefOGH3Q6pAMjQkE7PO0x+QxMRnwsXwXPYPPmiku2VEJERKt2wPu2Am68Gcknfi7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
+  "projectFilePath": "c:\\Users\\stefy\\Desktop\\bootcamp.Net\\Discoteque\\Discoteque.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\stefy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
